@@ -11,7 +11,7 @@
 
 For the best experience please make sure you do the following:
 
-Update the shortcode course_id parameter with the correct course Id of your course.
-Update the various color/hex values to match your branding and styling.
-Make sure your course's progression is set to Linear and NOT free-form.
-Add featured images to the lessons in your course as they're displayed on the path.
+* Update the shortcode course_id parameter with the correct course Id of your course.
+* Update the various color/hex values to match your branding and styling.
+* Make sure your course's progression is set to Linear and NOT free-form.
+* Add featured images to the lessons in your course as they're displayed on the path.
